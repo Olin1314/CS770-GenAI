@@ -1,0 +1,3 @@
+1. Train a GAN model on the MNIST handwritten Digits dataset to generate similar images using Keras/Tensorflow. Use this Jupyter notebook  Download Jupyter notebookas a template. (50 points)
+2. Train a VAE model to denoise the MNIST noisy images using PyTorch. Use this Jupyter notebook  Download Jupyter notebookas a template. (50 points)
+Note: Please submit the ipynb files with the output (cells executed)
